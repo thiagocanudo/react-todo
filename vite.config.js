@@ -5,5 +5,5 @@ import react from '@vitejs/plugin-react-swc'
 export default defineConfig({
   plugins: [react()],
   // base: '/todo/'
-  // npm rum preview - roda o projeto local
+  // npm rum preview - roda o projeto localmente
 })
