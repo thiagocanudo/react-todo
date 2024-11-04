@@ -1,0 +1,18 @@
+
+.header{
+    height: 200px;
+    align-content: center;
+    text-align: center;
+    background-image: url(../../assets/header.jpg);
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header h1{
+    line-height: 1.1;
+    font-size: 3.2em;
+    color: #fff;
+}
